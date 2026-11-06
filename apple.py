@@ -1,1 +1,2 @@
-print ("i ate apple")
+print ("i ate apple golden one")
+
